@@ -1,0 +1,7 @@
+C:\Users\priyanka.m\Desktop\WebAppplication\myfirstApplication\myfirstApplication\bin\myfirstApplication.dll.config
+C:\Users\priyanka.m\Desktop\WebAppplication\myfirstApplication\myfirstApplication\bin\myfirstApplication.dll
+C:\Users\priyanka.m\Desktop\WebAppplication\myfirstApplication\myfirstApplication\bin\myfirstApplication.pdb
+C:\Users\priyanka.m\Desktop\WebAppplication\myfirstApplication\myfirstApplication\obj\Debug\myfirstApplication.csprojAssemblyReference.cache
+C:\Users\priyanka.m\Desktop\WebAppplication\myfirstApplication\myfirstApplication\obj\Debug\myfirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\priyanka.m\Desktop\WebAppplication\myfirstApplication\myfirstApplication\obj\Debug\myfirstApplication.dll
+C:\Users\priyanka.m\Desktop\WebAppplication\myfirstApplication\myfirstApplication\obj\Debug\myfirstApplication.pdb
